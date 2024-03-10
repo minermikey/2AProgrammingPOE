@@ -1,0 +1,7 @@
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\bin\Debug\POEPart1Prog2A.exe.config
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\bin\Debug\POEPart1Prog2A.exe
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\bin\Debug\POEPart1Prog2A.pdb
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\obj\Debug\POEPart1Prog2A.csproj.AssemblyReference.cache
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\obj\Debug\POEPart1Prog2A.csproj.CoreCompileInputs.cache
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\obj\Debug\POEPart1Prog2A.exe
+C:\Users\Michael Singh\source\repos\POEPart1Prog2A\POEPart1Prog2A\obj\Debug\POEPart1Prog2A.pdb
